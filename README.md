@@ -3,11 +3,11 @@
 💻 &nbsp; Prazer, sou o João, natural de Campos Sales, no interior do Ceará. Sempre gostei de tecnologia, mas as oportunidades sempre me levaram por outro caminho. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: **manutenção preventiva e corretiva do hardware e cabeamento estruturado**.
 <br/>
 <br/>
-🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/">Centro Universitário Avantis</a>.
+🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/">Centro Universitário Avantis</a>
 <br/>
 💼 &nbsp;Trabalhando como **Analista de Suporte JR** na <a href="https://prismafive.com.br/">Prismafive Informática</a>
 <br/>
-📚 &nbsp; Aprendendo mais sobre **HTML, CSS e JavaScript**.
+📚 &nbsp; Aprendendo mais sobre **HTML, CSS e JavaScript**
 
 <br/>
 
