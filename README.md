@@ -1,6 +1,6 @@
 <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
-💻 &nbsp; Prazer, sou o João, natural de Campos Sales, no interior do Ceará. Sempre gostei de tecnologia, mas as oportunidades sempre me levaram por outro caminho. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: **Suporte técnico, Manutenção preventiva e corretiva do hardware e Cabeamento estruturado**.
+💻 &nbsp; Prazer, sou o João, natural de Campos Sales, no interior do Ceará. Sempre gostei de tecnologia, mas as oportunidades sempre me levaram por outro caminho. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: ** Banco de Dados, Manutenção preventiva e corretiva do hardware e Cabeamento estruturado**.
 <br/>
 <br/>
 🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/">Centro Universitário Avantis</a>
