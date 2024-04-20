@@ -6,8 +6,6 @@
 🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/">Centro Universitário Avantis</a>
 <br/>
 💼 &nbsp;Trabalhando como **Analista de Suporte de Sistemas** na <a href="https://prismafive.com.br/">Prismafive Informática</a>
-<br/>
-📚 &nbsp; Aprendendo mais sobre **HTML, CSS e JavaScript**
 
 <br/>
 
