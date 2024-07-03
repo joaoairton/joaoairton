@@ -3,10 +3,8 @@
 💻 &nbsp; Prazer, sou o João. Sempre gostei de tecnologia, mas as oportunidades sempre me levaram por outro caminho. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: **HTML, CSS, JavaScript, C++, Banco de Dados e Hardware**.
 <br/>
 <br/>
-🎓 &nbsp; Estudando **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/" target="_blank">Centro Universitário Avantis</a>
+🎓 &nbsp; Estudante de **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/" target="_blank">Centro Universitário Avantis</a>
 <br/>
-💼 &nbsp;Trabalhando como **Analista de Suporte de Sistemas** na <a href="https://prismafive.com.br/" target="_blank">Prismafive Informática</a>
-
 <br/>
 
 <p align="left">
