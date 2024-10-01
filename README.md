@@ -1,6 +1,6 @@
 <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
-💻 &nbsp; Prazer, sou o João. Sempre gostei de tecnologia, mas as oportunidades sempre me levaram por outro caminho. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: **HTML, CSS, JavaScript, C++, Banco de Dados e Hardware**.
+💻 &nbsp; Tenho experiência em suporte técnico com foco em sistemas de informação. Habilidades sólidas em montagem e manutenção de computadores e boa noção em bancos de dados e programação. Formação técnica em Eletromecânica e Informática, complementada por experiência prática em mecânica, elétrica e eletrônica. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: **HTML, CSS, JavaScript, Banco de Dados e Hardware**.
 <br/>
 <br/>
 🎓 &nbsp; Estudante de **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/" target="_blank">Centro Universitário Avantis</a>
