@@ -1,6 +1,6 @@
 <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
-💻 &nbsp; Tenho experiência em suporte técnico com foco em sistemas de informação. Habilidades sólidas em montagem e manutenção de computadores e boa noção em bancos de dados e programação. Formação técnica em Eletromecânica e Informática, complementada por experiência prática em mecânica, elétrica e eletrônica. Estou apenas no começo, porém já trago comigo uma pequena bagagem de conhecimento, entre eles: **HTML, CSS, JavaScript, Banco de Dados e Hardware**.
+💻 &nbsp; Profissional com experiência em suporte técnico, com foco em sistemas de informação. Possuo habilidades sólidas em montagem e manutenção de computadores, além de boa base em bancos de dados e programação. Formação técnica em Eletromecânica e Informática, complementada por vivência prática em ambas as áreas. Tenho conhecimentos em: **Programação, Banco de Dados, Hardware, Elétrica, Eletrônica e Mecânica**.
 <br/>
 <br/>
 🎓 &nbsp; Estudante de **SISTEMAS DE INFORMAÇÃO** no <a href="https://uniavan.edu.br/" target="_blank">Centro Universitário Avantis</a>
